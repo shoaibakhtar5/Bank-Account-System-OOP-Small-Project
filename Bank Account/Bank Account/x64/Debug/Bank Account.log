@@ -1,0 +1,13 @@
+﻿  bank.cpp
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(53,19): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(70,18): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(71,19): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(107,9): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(108,9): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(108,32): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(122,18): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(123,19): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(166,9): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(167,9): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DEll\source\repos\Bank Account\Bank Account\bank.cpp(167,32): warning C4129: 'A': unrecognized character escape sequence
+  Bank Account.vcxproj -> C:\Users\DEll\source\repos\Bank Account\x64\Debug\Bank Account.exe
